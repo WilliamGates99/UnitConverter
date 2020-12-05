@@ -1,6 +1,6 @@
 # Real Barrel Unit Converter
 <p class="event_desc">
-  <a href="https://iranapps.ir/app/com.realbarrel.unitconverter">
+  <a href="https://iranapps.ir/app/com.realbarrel.unitconverter" target="_blank">
     <img src="https://iranapps.ir/images/header-download-en.png"/>
   </a>
   &nbsp;
@@ -13,7 +13,7 @@
   &nbsp;
   &nbsp;
   &nbsp;
-  <a href="https://drive.google.com/drive/folders/14aKnQag6UzmkPrW0GecTx3NJ6VUkFQjd?usp=sharing">
+  <a href="https://drive.google.com/drive/folders/14aKnQag6UzmkPrW0GecTx3NJ6VUkFQjd?usp=sharing" target="_blank">
     <img src="https://www.mediafire.com/convkey/d9b8/fsxygf0h3529aprzg.jpg" height="65">
   </a>
 </p>
