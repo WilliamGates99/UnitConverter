@@ -1,22 +1,6 @@
 # Real Barrel Unit Converter
-<p class="event_desc">
-  <a href="https://iranapps.ir/app/com.realbarrel.unitconverter" target="_blank" >
-    <img src="https://iranapps.ir/images/header-download-en.png" align="middle" />
-  </a>
-  &nbsp;
-  &nbsp;
-  &nbsp;
-  &nbsp;
-  &nbsp;
-  &nbsp;
-  &nbsp;
-  &nbsp;
-  &nbsp;
-  &nbsp;
-  <a href="https://drive.google.com/drive/folders/14aKnQag6UzmkPrW0GecTx3NJ6VUkFQjd?usp=sharing" target="_blank" >
-    <img src="https://www.mediafire.com/convkey/d9b8/fsxygf0h3529aprzg.jpg" height="60" align="middle" />
-  </a>
-</p>
+ [<img src="https://iranapps.ir/images/header-download-en.png" align="middle" />](https://iranapps.ir/app/com.realbarrel.unitconverter/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<img src="https://www.mediafire.com/convkey/d9b8/fsxygf0h3529aprzg.jpg" height="60" align="middle" />](https://drive.google.com/drive/folders/14aKnQag6UzmkPrW0GecTx3NJ6VUkFQjd?usp=sharing/)
+
 </br>
 
 **The Real Barrel Unit Converter** app is a user-friendly, quick, and easy unit converter.
