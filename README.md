@@ -1,4 +1,4 @@
-# Real Barrel Unit Converter [![platform](https://img.shields.io/badge/platform-Android-success.svg)](https://www.android.com) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/WilliamGates99/UnitConverter) ![GitHub](https://img.shields.io/github/license/WilliamGates99/UnitConverter)
+# Real Barrel Unit Converter [![platform](https://img.shields.io/badge/platform-Android-success.svg)](https://www.android.com) ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/WilliamGates99/UnitConverter?include_prereleases) ![GitHub](https://img.shields.io/github/license/WilliamGates99/UnitConverter)
 
 [<img src="https://iranapps.ir/images/header-download-en.png" align="middle" />](https://iranapps.ir/app/com.realbarrel.unitconverter/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<img src="https://www.mediafire.com/convkey/d9b8/fsxygf0h3529aprzg.jpg" height="60" align="middle" />](https://drive.google.com/drive/folders/14aKnQag6UzmkPrW0GecTx3NJ6VUkFQjd?usp=sharing/)
 
