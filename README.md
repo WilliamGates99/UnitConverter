@@ -1,4 +1,4 @@
-# Real Barrel Unit Converter [![platform](https://img.shields.io/badge/platform-Android-success.svg)](https://www.android.com) ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/WilliamGates99/UnitConverter?include_prereleases) ![GitHub](https://img.shields.io/github/license/WilliamGates99/UnitConverter)
+# Real Barrel Unit Converter [![platform](https://img.shields.io/badge/platform-Android-success.svg)](https://www.android.com) ![GitHub release (latest SemVer including pre-releases)](https://img.shields.io/github/v/release/WilliamGates99/UnitConverter?include_prereleases) ![GitHub](https://img.shields.io/github/license/WilliamGates99/UnitConverter)
 
 **The Real Barrel Unit Converter** app is a user-friendly, quick, and easy unit converter.
 </br>
